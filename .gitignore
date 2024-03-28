@@ -1,0 +1,7 @@
+/build/
+/node_modules/
+
+# Logging
+logs
+*.log
+npm-debug.log*
